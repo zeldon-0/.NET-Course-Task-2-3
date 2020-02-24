@@ -1,0 +1,9 @@
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\bin\Debug\netstandard2.0\ArrayImplementation.deps.json
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\bin\Debug\netstandard2.0\ArrayImplementation.dll
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\bin\Debug\netstandard2.0\ArrayImplementation.pdb
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.csprojAssemblyReference.cache
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.csproj.CoreCompileInputs.cache
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.AssemblyInfoInputs.cache
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.AssemblyInfo.cs
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.dll
+C:\Misc\EPAM Training\Task_2\Task 2\ArrayImplementation\obj\Debug\netstandard2.0\ArrayImplementation.pdb
